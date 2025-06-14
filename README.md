@@ -18,7 +18,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the [Wine Quality d
 
 - Python (Pandas, NumPy)
 - Data Visualization: Matplotlib, Seaborn
-- Google Colab 
+- Google Colab, Jupyter Notebook
 
 ---
 
